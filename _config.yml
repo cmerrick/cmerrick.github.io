@@ -1,2 +1,4 @@
 name: Chris's Blog
 pygments: true
+markdown: kramdown
+exclude: vendor
